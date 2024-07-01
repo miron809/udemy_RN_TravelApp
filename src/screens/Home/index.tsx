@@ -16,7 +16,7 @@ const Home = () => {
   return (
     <View>
       <Text>
-        <Title text={'Text from home'} />
+        <Title />
       </Text>
     </View>
   );
