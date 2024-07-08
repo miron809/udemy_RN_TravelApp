@@ -10,6 +10,15 @@ const styles = StyleSheet.create({
     marginTop: 40,
     marginBottom: 34,
   },
+  flatList: {
+    marginVertical: 0,
+    marginHorizontal: -8,
+    flexGrow: 1,
+  },
+  header: {
+    marginVertical: 0,
+    marginHorizontal: 8,
+  },
 });
 
 export default styles;
